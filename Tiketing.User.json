@@ -1,0 +1,18 @@
+[{
+  "_id": {
+    "$oid": "676cac2addf9a5f2d84eeb95"
+  },
+  "Id": 1234,
+  "Nama": "Radja",
+  "Email": "rfatahillah48@gmail.com",
+  "No_HP": 87678366736
+},
+{
+  "_id": {
+    "$oid": "676cac2addf9a5f2d84eeb96"
+  },
+  "Id": 23456,
+  "Nama": "Ucup",
+  "Email": "ucupppp12@gmail.com",
+  "No_HP": 9876365387366
+}]

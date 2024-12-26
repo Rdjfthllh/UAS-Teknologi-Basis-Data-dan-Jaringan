@@ -1,0 +1,18 @@
+[{
+  "_id": {
+    "$oid": "676cacf3ddf9a5f2d84eeb97"
+  },
+  "Id_Event": 2,
+  "Nama_Event": "Big Bang Fest",
+  "Tanggal": "12 Desember 2024",
+  "Lokasi": "Kemayoran"
+},
+{
+  "_id": {
+    "$oid": "676cacf3ddf9a5f2d84eeb98"
+  },
+  "Id_Event": 4,
+  "Nama_Event": "DWP",
+  "Tanggal": "12 oktobor 2024",
+  "Lokasi": "Monas"
+}]

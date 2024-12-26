@@ -1,0 +1,10 @@
+[{
+  "_id": {
+    "$oid": "676cad8eddf9a5f2d84eeb99"
+  },
+  "Id": 2,
+  "Event": "Big Bang Fest",
+  "Id_User": 1234,
+  "Tanggal_Pembelian": "10 Desember2024",
+  "Harga": "Rp 200.000"
+}]
